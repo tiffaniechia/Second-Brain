@@ -5,3 +5,6 @@
 - Quick touch on State of DevOps 2014
 - Trunk based development/ continuous delivery examples (Google, Amazon)
 - Example on G. Linden from Amazon on the Amazon shopping cart
+
+####Keeping an eye out for:
+- Google's new Build tool: Bazel.io 
