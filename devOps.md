@@ -14,6 +14,9 @@ Power-packed ChefConf keynote by Jez Humble https://www.youtube.com/watch?v=L1w2
 ####Keeping an eye out for:
 - Google's new Build tool: Bazel.io
 
+### Elastic Search:
+- 10 metrics for elasticsearch:  http://blog.sematext.com/2015/05/05/top-10-elasticsearch-metrics-to-watch/
+
 ###Vagrant Reading list & beginner practice flow:
 - Exercise 1:
 Create a vagrant file such that doing vagrant up will start a ubuntu linux vm.
