@@ -17,6 +17,10 @@ Power-packed ChefConf keynote by Jez Humble https://www.youtube.com/watch?v=L1w2
 ### Elastic Search:
 - 10 metrics for elasticsearch:  http://blog.sematext.com/2015/05/05/top-10-elasticsearch-metrics-to-watch/
 
+### Techniques:
+- Canary builds:  http://www.thoughtworks.com/radar/techniques/canary-builds
+- Generated infrastructure diagrams: http://www.thoughtworks.com/radar/techniques/generated-infrastructure-diagrams
+
 ###Vagrant Reading list & beginner practice flow:
 - Exercise 1:
 Create a vagrant file such that doing vagrant up will start a ubuntu linux vm.
