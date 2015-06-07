@@ -3,3 +3,5 @@
 - Ludum Dare, an accelerated video game development competition: http://ludumdare.com/
 
 - Watch people code live: http://www.watchpeoplecode.com/
+
+- List of open source projects: http://www.codetriage.com/

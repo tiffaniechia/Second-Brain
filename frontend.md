@@ -7,3 +7,8 @@
 ####Calendar Libraries
 
 - Full calendar. Relatively good data security, ability for block booking, good device support, quick out of the box solution, and more! http://fullcalendar.io/
+
+
+####Javascript Libraries
+
+- Knwl.js is a Javascript library that parses through text for dates, times, phone numbers, emails, places, and more: https://github.com/loadfive/Knwl.js/blob/master/README.md
