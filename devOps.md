@@ -7,9 +7,10 @@ Power-packed ChefConf keynote by Jez Humble https://www.youtube.com/watch?v=L1w2
 - Trunk based development/ continuous delivery examples (Google, Amazon)
 - Example on G. Linden from Amazon on the Amazon shopping cart
 
-### Best practices for bash scripts:
+### Bash scripts:
 - http://kvz.io/blog/2013/11/21/bash-best-practices/
 - http://redsymbol.net/articles/unofficial-bash-strict-mode/
+- best of bash scripting in Ruby: http://radek.io/2015/07/13/ruby-scripting/
 
 ### Configuration Management:
 - Great comprehensive article on Salstack Vs Ansible: http://jensrantil.github.io/salt-vs-ansible.html
