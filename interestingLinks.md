@@ -5,3 +5,5 @@
 - Watch people code live: http://www.watchpeoplecode.com/
 
 - List of open source projects: http://www.codetriage.com/
+
+- Tor for technologists: http://martinfowler.com/articles/tor-for-technologists.html

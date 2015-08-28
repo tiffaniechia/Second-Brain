@@ -1,4 +1,7 @@
-##DevOps
+## DevOps
+
+## DevOps bookmarks:
+- http://www.devopsbookmarks.com/metrics-visualization
 
 ### Talks:
 Power-packed ChefConf keynote by Jez Humble https://www.youtube.com/watch?v=L1w2_AY82WY
@@ -25,6 +28,9 @@ Power-packed ChefConf keynote by Jez Humble https://www.youtube.com/watch?v=L1w2
 ### Techniques:
 - Canary builds:  http://www.thoughtworks.com/radar/techniques/canary-builds
 - Generated infrastructure diagrams: http://www.thoughtworks.com/radar/techniques/generated-infrastructure-diagrams
+
+## Beginner's guide to Networks
+- http://www.kamalika.net/tutorials/networking/
 
 ###Vagrant Reading list & beginner practice flow:
 - Exercise 1:
