@@ -36,16 +36,19 @@ https://github.com/schneems/derailed_benchmarks
 - https://github.com/bbyars/mountebank/blob/master/src/mountebank.js
 - note to self: use promises!
 
-
 ## stewardship
 - Brian Goetz on stewardship: https://www.youtube.com/watch?v=2y5Pv4yN0b0
+  - there is no good, only good for
 - Guy steele on growing a language:
 https://www.youtube.com/watch?v=_ahvzDzKdB0
 
+## alignment maps (visualizing business + tech needs):
+- http://martinfowler.com/bliki/AlignmentMap.html
+- creating alignment maps with graphviz:
+ http://larsbarkman.com/2015/08/26/alignmentmaps-with-graphviz/
+ - source file; https://github.com/LarsBarkman/Graphviz_Models/blob/master/AlignmentMap.dot
 ## others
 - todo back enf proj: http://www.todobackend.com/
-
-
 
 - jspm - a browser package management tool for ES6 modules: jspm.io
 
