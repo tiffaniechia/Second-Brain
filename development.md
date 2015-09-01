@@ -47,6 +47,10 @@ https://www.youtube.com/watch?v=_ahvzDzKdB0
 - creating alignment maps with graphviz:
  http://larsbarkman.com/2015/08/26/alignmentmaps-with-graphviz/
  - source file; https://github.com/LarsBarkman/Graphviz_Models/blob/master/AlignmentMap.dot
+
+## Javascript
+- composition in javascript: http://rjzaworski.com/2013/03/composition-in-javascript 
+
 ## others
 - todo back enf proj: http://www.todobackend.com/
 
